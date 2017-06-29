@@ -7,7 +7,7 @@ if [ "$#" -ne 2 ]; then
 fi
 
 #remove old logs if exists
-if  [ -d ./logs ]; then
+if [ -d ./logs ]; then
     rm -rf ./logs;
 fi
 
