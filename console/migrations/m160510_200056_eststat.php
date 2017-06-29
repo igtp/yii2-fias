@@ -18,6 +18,7 @@ class m160510_200056_eststat extends Migration
         $this->createTable($this->tableName, [
             'eststatid' => 'INT',
             'name' => 'VARCHAR(20)',
+            'shortname' => 'VARCHAR(20)',
         ], $tableOptions);
     }
 
