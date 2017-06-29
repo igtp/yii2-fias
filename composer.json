@@ -1,18 +1,18 @@
 {
-    "name": "wertex/yii2-fias",
+    "name": "igtp/yii2-fias",
     "description": "Yii2 extension for FIAS database",
     "keywords": ["yii2", "fias"],
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
-        "source": "https://github.com/wertex/yii2-fias",
-        "issues": "https://github.com/wertex/yii2-fias/issues"
+        "source": "https://github.com/igtp/yii2-fias",
+        "issues": "https://github.com/igtp/yii2-fias/issues"
     },
     "authors": [
         {
-            "name": "alexeevdv",
-            "homepage": "https://alexeevdv.ru/",
-            "email": "mail@alexeevdv.ru"
+            "name": "mar",
+            "homepage": "",
+            "email": "igtp@openmailbox.org"
         }
     ],
     "minimum-stability": "stable",
